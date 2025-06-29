@@ -16,15 +16,13 @@ print(find_kth_largest(nums, k)) Output: 5
 2. Using condition return [k-1]th element.
 '''
 nums = [3, 2, 1, 5, 6, 4]
-
+1,2,3,4,5,6
 def find_kth_largest(nums: list, k: int) -> int:
-    nums.sort()
-    nums=nums[::-1]
-    
-    return nums[k-1]
+    nums.sort()  
+    return nums[-k]
 
 
-print(find_kth_largest(nums,3))
+print(find_kth_largest(nums,2))
 
 
 
