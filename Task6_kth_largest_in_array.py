@@ -13,7 +13,7 @@ print(find_kth_largest(nums, k)) Output: 5
 #flow of program
 '''
 1. Sort the list in descending order.
-2. Using condition return [k-1]th element.
+2. Using condition return [-k]th element.
 '''
 nums = [3, 2, 1, 5, 6, 4]
 1,2,3,4,5,6
