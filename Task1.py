@@ -19,7 +19,7 @@ def find_missing_number(arr: list) -> int:
     for i in range(len(arr)):
         if i not in arr:        #if condition is for whether the number is list or not
             return i            #if number is not in list it will return that number which will our missing number
-#             #else return there is no missing value
+
         
 
 #Solution:second approach 
