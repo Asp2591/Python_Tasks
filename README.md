@@ -13,5 +13,5 @@
 4. Used sorting method and reverse indexing to find kth largest number.
 
 ### How to Run:
-1. Python 3.11 used.
+1. Python 3.12 used.
 2. Run with: 'python task1.py', etc.
