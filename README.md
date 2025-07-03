@@ -1,5 +1,6 @@
 ## Python Developer Intern Tasks
 ## Hii ATharva Here!!
+'''Round 1'''
 # Tasks:
 1. Find the missing number in a sequence
 2. Find the first non-repeating character in a string
@@ -15,3 +16,15 @@
 ### How to Run:
 1. Python 3.11 used.
 2. Run with: 'python task1.py', etc.
+
+
+'''Round 2'''
+# Tasks:
+1. Disarium number or not : 
+E.g. 175 ->> 1^1 + 7^2 + 5^3
+2. Sequential palindromial
+E.g.
+3. Version comparison : 
+E.g. 1.01 ,1.001 
+4. Decimal to Roman conversion between 1 to 3999 numbers : 
+E.g. 1987 --> 'MCMLXXXVII'
